@@ -15,6 +15,8 @@ I'm a Computer Science student interested in backend development, cloud computin
 [![GitHub Streak](https://streak-stats.demolab.com/?user=usmansalifu34-pixel)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmansalifu34-pixel&show_icons=true&hide_border=true)
+
+
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/usman-s-307150392/)
