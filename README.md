@@ -13,3 +13,7 @@ I'm a Computer Science student interested in backend development, cloud computin
 ## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=usmansalifu34-pixel)](https://git.io/streak-stats)
+
+## Connect with me
+
+[LinkedIn](kedin.com/in/usman-s-307150392/)
