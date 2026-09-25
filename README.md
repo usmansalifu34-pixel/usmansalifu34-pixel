@@ -16,4 +16,4 @@ I'm a Computer Science student interested in backend development, cloud computin
 
 ## Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/usman-s-307150392/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/usman-s-307150392/)
