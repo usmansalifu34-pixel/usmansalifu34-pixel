@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./profile-banner.jpeg" alt="Usman Salifu - Backend Developer">
+</p>
+
+
 # Hi, I'm Usman 👋
 
 Backend developer focused on building RESTful APIs and backend systems.
