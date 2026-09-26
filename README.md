@@ -3,9 +3,11 @@
 </p>
 
 
-# Hi, I'm Usman 👋
+# Hi, I'm Usman Salifu
 
-Backend developer focused on building RESTful APIs and backend systems.
+Computer Science student and backend developer building REST APIs and backend systems.
+
+I'm currently learning cloud computing, Linux, PostgreSQL, C++, Python, and DevOps.
 
 ## About Me
 
