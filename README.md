@@ -36,9 +36,6 @@ API designed to track students' assignments.
 - DevOps
 
 
-## GitHub Activity
-
-[![Usman's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=usmansalifu34-pixel&hide_border=true)](https://github.com/usmansalifu34-pixel)
 
 ## Connect with me
 
