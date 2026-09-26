@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./profile-banner.jpeg" alt="Usman Salifu - Backend Developer">
-</p>
+</p> -->
 
 
 # Hi, I'm Usman Salifu
@@ -9,9 +9,14 @@ Computer Science student and backend developer building REST APIs and backend sy
 
 I'm currently learning cloud computing, Linux, PostgreSQL, C++, Python, and DevOps.
 
+
+
 ## About Me
 
-I'm a Computer Science student interested in backend development, cloud computing, and DevOps.
+I build backend applications and REST APIs with JavaScript, Node.js, and Express.
+
+I'm also exploring cloud computing, Linux, PostgreSQL, and DevOps while improving my software engineering skills.
+
 
 ## Languages and Tools
 
