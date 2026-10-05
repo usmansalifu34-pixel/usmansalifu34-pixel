@@ -28,6 +28,10 @@ I'm also exploring cloud computing, Linux, PostgreSQL, and DevOps while improvin
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,mongodb,postgres,git,github,linux,python,cpp)](https://skillicons.dev)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmansalifu34-pixel&layout=compact&theme=dark&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=usmansalifu34-pixel&show_icons=true&theme=dark&hide_border=true" />
+
 ## GitHub Stats
 
 ## GitHub Stats
