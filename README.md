@@ -1,6 +1,12 @@
-<!-- <p align="center">
-  <img src="./profile-banner.jpeg" alt="Usman Salifu - Backend Developer">
-</p> -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f81f7&height=180&section=header&text=Salifu%20Usman&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Backend+Developer;Node.js+%7C+Express+%7C+MongoDB;Learning+Cloud+%26+DevOps" />
+
+</div>
+
+
 
 
 # Hi, I'm Usman Salifu
@@ -24,7 +30,11 @@ I'm also exploring cloud computing, Linux, PostgreSQL, and DevOps while improvin
 
 ## GitHub Stats
 
+## GitHub Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=usmansalifu34-pixel)](https://git.io/streak-stats)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=usmansalifu34-pixel&theme=react-dark&hide_border=true" width="100%" />
 
 ## Featured Projects
 
