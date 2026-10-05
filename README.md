@@ -34,7 +34,11 @@ I'm also exploring cloud computing, Linux, PostgreSQL, and DevOps while improvin
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=usmansalifu34-pixel)](https://git.io/streak-stats)
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usmansalifu34-pixel/usmansalifu34-pixel/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usmansalifu34-pixel/usmansalifu34-pixel/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/usmansalifu34-pixel/usmansalifu34-pixel/output/github-snake.svg" />
+</picture>
 ## Featured Projects
 
 ### Sustainability Marketplace
