@@ -32,7 +32,7 @@ I'm also exploring cloud computing, Linux, PostgreSQL, and DevOps while improvin
 
 <img src="https://github-readme-stats.vercel.app/api?username=usmansalifu34-pixel&show_icons=true&theme=dark&hide_border=true" />
 
-## GitHub Stats
+
 
 ## GitHub Stats
 
