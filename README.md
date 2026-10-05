@@ -34,7 +34,6 @@ I'm also exploring cloud computing, Linux, PostgreSQL, and DevOps while improvin
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=usmansalifu34-pixel)](https://git.io/streak-stats)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=usmansalifu34-pixel&theme=react-dark&hide_border=true" width="100%" />
 
 ## Featured Projects
 
